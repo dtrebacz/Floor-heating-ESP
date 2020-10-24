@@ -1,1 +1,3 @@
+FloorHeatControler_V15 - Floor heating controller on NodeMcu. 5 zones. The signal from the temperature sensors must be sent on the mqtt from the HA.
+RTL_V01 - 1 zone floor heating controller with RTL valve function
 
